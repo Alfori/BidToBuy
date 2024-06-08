@@ -1,0 +1,10 @@
+ProductID,ProductName,Description,BasePrice,Quality,Status,SellerID
+P126,Coffee Maker,"Brews up to 12 cups of coffee.",150,0,Sold,U574
+P141,Laptop,"Lightweight laptop with 16GB RAM and 1TB SSD.",1200,0,Open,U278
+P163,Electric Guitar,"Stratocaster model with custom pickups.",450,0,Open,U817
+P382,Smartphone,"High-end smartphone with the latest features.",700,0,Open,U287
+P431,Washing Machine,"Energy-efficient model with 10-year warranty.",800,0,Closed,U991
+P525,Mountain Bike,"27-speed mountain bike with hydraulic disc brakes.",550,0,Sold,U172
+P623,Bookshelf,"Wooden bookshelf in walnut finish.",200,0,Open,U746
+P808,Wire,Wire for Apple phones,20,0,Open,U60
+P971,TShirt,Grey tshirt with a blue print on it,5.99,0,Open,U842

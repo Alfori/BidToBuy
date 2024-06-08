@@ -1,0 +1,6 @@
+UserID,Name,Role,Email,Address,AccountBalance
+U812,Alice Johnson,Seller,alice@gmail.com,123 Apple St,1000
+U442,Bob Smith,Seller,bob@something.com,456 Rosewood Ave,1500.5
+U421,Cathy Lee,Buyer,cathy@test.com,789 Amber Blvd,1200.75
+U141,David Brown,Buyer,david@example.com,012 Date Way,950
+U842,Sultan Alfori,Seller,sultanalfori@gmail.com,2905 Aurora Ave,2950
